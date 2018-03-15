@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SeekBarNew.iml" filepath="$PROJECT_DIR$/SeekBarNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeekBarAndriodNew.iml" filepath="$PROJECT_DIR$/SeekBarAndriodNew.iml" />
+      <module fileurl="file://C:\Users\Will\Documents\GitHub\SeekBarAndriodNew\SeekBarNew.iml" filepath="C:\Users\Will\Documents\GitHub\SeekBarAndriodNew\SeekBarNew.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Will\Documents\GitHub\SeekBarAndriodNew\app\app.iml" filepath="C:\Users\Will\Documents\GitHub\SeekBarAndriodNew\app\app.iml" />
     </modules>
   </component>
 </project>
